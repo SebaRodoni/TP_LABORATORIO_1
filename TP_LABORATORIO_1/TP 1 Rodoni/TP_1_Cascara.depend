@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1504850508 source:c:\users\rodriguez\desktop\programacion\tp- calculadora\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504851777 c:\users\rodriguez\desktop\programacion\tp- calculadora\tp_1_cascara\funciones.h
+
+1504847892 source:c:\users\rodriguez\desktop\programacion\tp- calculadora\tp_1_cascara\funcion.c
+
+1504810134 c:\users\rodriguez\desktop\programacion\tp- calculadora\tp_1_cascara\funcion.c
+
+1504847892 source:c:\users\rodriguez\desktop\programacion\tp- calculadora\tp_1_calculadora\funcion.c
+
+1504894777 source:f:\usuarios\alumno\escritorio\tp 1 rodoni\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504893650 f:\usuarios\alumno\escritorio\tp 1 rodoni\funciones.h
+
+1506112568 source:f:\usuarios\alumno\escritorio\tp_laboratorio_1-master\tp 1 rodoni\funcion.c
+
+1506112568 source:f:\usuarios\alumno\escritorio\tp_laboratorio_1-master\tp 1 rodoni\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506112568 f:\usuarios\alumno\escritorio\tp_laboratorio_1-master\tp 1 rodoni\funciones.h
+
